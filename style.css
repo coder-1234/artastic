@@ -1,0 +1,9 @@
+img{
+	transition-duration: all 1s;
+	box-shadow: 2px;
+}
+img :hover{
+	transform: scale(1.1);
+	cursor: none;
+	
+}
